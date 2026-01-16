@@ -6,7 +6,7 @@ creates situational dishonesty.
 
 Ignoreware appears when procedures, policies, or
 frameworks exist but can be safely ignored without
-consequence. They live in documents, wikis, slides,
+consequence. It lives in documents, wikis, slides,
 or onboarding sessions, but not in actual workflow.
 
 The hidden costs of ignoreware:
@@ -30,8 +30,8 @@ The hidden costs of ignoreware:
   pause becomes risky, so false certainty is rewarded.
 
 Ignoreware is worse than absence.
-No rule is cleaner than a rule that everyone pretends
-to follow.
+A rule that everyone pretends to follow, is eating  
+valuabe time.
 
 ---
 
