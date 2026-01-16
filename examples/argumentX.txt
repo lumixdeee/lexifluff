@@ -22,4 +22,6 @@ Argument X names a third space:
 not resolved, not failed, not abandoned -  
 just parked safely.
 
-A graceful exit protocol for discourse under pressure.
+A graceful exit protocol for discourse under pressure.  
+
+Mogri definition - https://github.com/lumixdeee/CSP-105/tree/main/spec
