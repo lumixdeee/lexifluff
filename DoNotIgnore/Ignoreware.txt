@@ -1,0 +1,64 @@
+**Ignoreware**
+
+Ignoreware is not just wasted effort or sunk cost.
+It is active friction added to a system, and it
+creates situational dishonesty.
+
+Ignoreware appears when procedures, policies, or
+frameworks exist but can be safely ignored without
+consequence. They live in documents, wikis, slides,
+or onboarding sessions, but not in actual workflow.
+
+The hidden costs of ignoreware:
+
+- Extra cognitive load: people must remember what
+  they are *supposed* to do while knowing they will
+  not do it.
+
+- Friction without effect: time is spent navigating
+  around procedures that do not meaningfully shape
+  behavior.
+
+- Situational dishonesty: participants act as if the
+  procedure matters while privately knowing it does
+  not.
+
+- Erosion of trust: repeated exposure teaches people
+  that formal language is ornamental rather than real.
+
+- Incentive distortion: honesty about uncertainty or
+  pause becomes risky, so false certainty is rewarded.
+
+Ignoreware is worse than absence.
+No rule is cleaner than a rule that everyone pretends
+to follow.
+
+---
+
+**Why lexifluff avoids ignoreware**
+
+Lexifluff does not live in documents.
+It lives in language used during the work itself.
+
+When someone uses a term like *Unfinishment* or
+*Mogriment*, the procedure is already executed.
+The conversational state has changed.
+
+This cannot be ignored without being visibly ignored.
+
+Workflow continuation forces engagement because:
+- the pause is named in-band
+- the reason is encoded in the word
+- the next move must respond to that state
+
+There is no separate compliance step.
+There is no external enforcement.
+There is no performative agreement.
+
+You can ignore a policy.
+You cannot ignore a move that has already been played
+in the conversation you are part of.
+
+Lexifluff replaces ignoreware with unavoidable
+interaction, removing the hidden costs of friction
+and dishonesty while preserving forward motion.
