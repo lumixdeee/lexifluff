@@ -1,0 +1,44 @@
+TIME-VERBING (lexifluff)
+
+Idea:
+Instead of doing it *when*,
+you are *when*-ing it.
+
+You’re not describing execution.
+You’re describing present state - where the item currently lives in time.
+
+Examples (calendar containers - placement):
+- morrow it / I'm morrowing it
+- tonight it / I'm tonight-ing it
+- Monday it / let's Monday it
+- nextweek it / we're nextweek-ing this
+
+Examples (rolling containers - span from now):
+- next-hour it / I'm next-hour-ing it
+- five-minutes it / five-minutes it then ping me
+- shortly it / I'm shortly-ing that reply
+
+Meaning:
+Time-verbing turns a time word from a modifier into an operator.
+"Do it tomorrow" is a plan about future action.
+"Morrow it" is a statement about current placement.
+
+Why it helps:
+- Compresses coordination talk without adding pressure.
+- Avoids false promises: you’re placing it, not swearing completion.
+- Cuts managerial fog: fewer words, more signal.
+- Makes "later" less slippery by naming the bucket.
+
+A tiny history (why it was right, then wrong, now right again):
+Early English was comfortable turning nouns into verbs, and "morrow" lived everywhere as a real everyday time-bucket.
+Over time (especially early modern standardisation), taste shifted toward smoother, more Latinate phrasing - verbs were expected to sound like actions, while time got pushed into adverbs ("do it tomorrow").
+Now we’re back under coordination pressure: bandwidth is scarce, and utility reads as good style.
+So we re-open the old grammatical move: verb the time-bucket, state the placement.
+
+Rule of thumb:
+- If the time word names a shared container (tomorrow, Monday, next week), verbing cleanly places the item there.
+- If the time word names a rolling span (next hour, five minutes), verbing usually implies "from now, over that span".
+
+Non-goal:
+This is not a new ontology. No new primitive claim.
+This is just a lighter, more honest way to say what we're already doing with time.
