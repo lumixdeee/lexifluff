@@ -26,7 +26,6 @@ confusion, or false certainty.
 
 - not universal
 - not prescriptive
-- not something to roll out company-wide
 - not a belief system
 - not something to sell
 
