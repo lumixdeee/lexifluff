@@ -1,0 +1,48 @@
+emmogrition
+===========
+
+Status
+------
+Lexifluff term (process descriptor)
+
+Definition
+----------
+Describes a phase of population, cultural, or organisational change that
+is ongoing, active, and still settling.
+
+Emmogrition focuses on *process*, not judgement.
+It does not imply benefit or harm, success or failure.
+
+Usage
+-----
+Use when change is:
+- real
+- present
+- not yet stabilised
+- commonly mischaracterised as conflict
+
+Examples
+--------
+"This service area is currently in an emmogrition phase."
+
+"Some calls feel tense because the system is still emmogritionary."
+
+"We should expect mogrimentative interactions during emmogrition."
+
+Why This Helps
+--------------
+- Avoids moral or political framing
+- Replaces adversarial language with process language
+- Allows honest acknowledgement of strain without escalation
+- Keeps discussions operational rather than ideological
+
+Notes
+-----
+Emmogrition does not replace legal or policy terms.
+It is a conversational and internal descriptor only.
+
+Related
+-------
+mogrimentative
+demogrify
+mogrify
