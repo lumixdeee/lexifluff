@@ -1,0 +1,51 @@
+mogrimentative
+==============
+
+Status
+------
+Lexifluff term 
+
+Definition
+----------
+Describes a conversational state that is actively forming, shifting, or
+reconfiguring itself, often with tension or friction, but without
+implying hostility, bad faith, or fixed opposition.
+
+A mogrimentative interaction is:
+- in motion
+- not yet settled
+- not inherently adversarial
+
+Usage
+-----
+Use instead of:
+- argumentative
+- combative
+- confrontational
+when the situation involves ongoing sense-making rather than attack.
+
+Examples
+--------
+"The caller was mogrimentative, but not hostile."
+
+"The discussion became mogrimentative as details were clarified."
+
+"This stage of the process can feel mogrimentative before stabilising."
+
+Why This Helps
+--------------
+- Avoids freezing people into negative roles
+- Keeps situations framed as process, not conflict
+- Reduces escalation while remaining honest about friction
+- Allows staff to acknowledge difficulty without assigning blame
+
+Notes
+-----
+Mogrimentative does not deny disagreement.
+It describes disagreement as *active formation*, not fixed opposition.
+
+Related
+-------
+argumentative (problematic framing)
+combative (escalatory framing)
+mogrify / mogri (underlying process model)
