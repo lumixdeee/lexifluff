@@ -1,0 +1,80 @@
+emmogrint
+=========
+
+Status
+------
+Lexifluff term (process-safe alternative to label-heavy phrasing)
+
+Definition
+----------
+A person viewed in the context of an ongoing emmogrition phase.
+
+Emmogrint is a process-framed reference: it points to "what is happening"
+around movement and settlement, rather than fixing identity as a label.
+
+Usage
+-----
+Use sparingly, mainly in informal internal discussion, when the goal is:
+- to lower temperature
+- to keep focus on process and integration mechanics
+- to avoid label-first framing
+
+Avoid in:
+- official documents
+- public-facing comms
+- legal or policy text
+(Use standard terms there.)
+
+Examples
+--------
+"Some calls are mogrimentative because we’re mid-emmogrition - the new emmogrints
+and long-timers are still demogrifying shared expectations."
+
+"Let’s demogrify the onboarding path for emmogrints - signage, appointment flow,
+and translation support."
+
+Why This Helps
+--------------
+- Shifts attention from person-as-label to change-as-process
+- Reduces adversarial framing
+- Encourages operational thinking (what supports settlement and clarity)
+
+Notes
+-----
+Emmogrint is not a substitute for precise legal categories.
+It is a conversational tool for process-oriented framing.
+
+Related
+-------
+emmogrition
+mogrimentative
+demogrify
+mogrify  
+
+emmogrine - (adjective)
+Describes conditions characterised by ongoing emmogrition.
+
+
+Informal / Colloquial
+--------------------
+
+emo-grind
+---------
+Pronunciation-based informal variant of "emmogrint".
+
+Refers to the felt emotional friction that can arise during emmogrition,
+without assigning blame or fixed identity.
+
+Often used humorously or gently to acknowledge strain.
+
+Examples
+--------
+"Yeah, there’s a bit of emo-grind on the phones this week."
+"That meeting had some emo-grind, but it demogrified by the end."
+
+Notes
+-----
+"emo-grind" is affective, not descriptive.
+It should not appear in formal or written records.
+Its value is in lowering tension through recognisable tone.
+
