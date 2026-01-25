@@ -22,4 +22,6 @@ Use mogrileteracy when:
 
 Do not moralise.
 Observe which mode is active.
-Respond accordingly.
+Respond accordingly.  
+
+More : https://github.com/lumixdeee/CSP-105/tree/main/units/mogri-classics/mogri-lit
