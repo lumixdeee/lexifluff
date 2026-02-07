@@ -1,0 +1,20 @@
+WICKWARE (lexifluff definition)
+
+Wickware is software that moves upstream by usefulness, not by authority.
+
+It behaves like a fluid:
+- it fits existing containers instead of demanding new ones
+- it spreads through small helper persistence, not grand rollouts
+- it survives because removing it makes things worse
+
+Wickware is not a product pitch, ideology, or framework export.
+It is an interface-level suppression / assist layer that:
+- reduces friction for good-faith work
+- increases friction for harmful or low-signal work
+- stays inspectable, lightweight, and easy to diff
+
+Success condition:
+People adopt it without thinking, stop talking about it, and quietly rely on it.
+
+Failure condition:
+It needs explanation, credit, or belief to function.
