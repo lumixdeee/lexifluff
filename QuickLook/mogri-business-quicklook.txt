@@ -24,4 +24,4 @@ Do not moralise.
 Observe which mode is active.
 Respond accordingly.  
 
-More : https://github.com/lumixdeee/CSP-105/tree/main/units/mogri-classics/mogri-lit
+More : https://github.com/lumixdeee/mogri/tree/main/units/mogri-classics/mogri-lit
