@@ -24,4 +24,4 @@ just parked safely.
 
 A graceful exit protocol for discourse under pressure.  
 
-Mogri definition - https://github.com/lumixdeee/CSP-105/tree/main/spec
+Mogri definition - https://github.com/lumixdeee/mogri/blob/main/spec/CSP-106-94%20Mogri-Definition
