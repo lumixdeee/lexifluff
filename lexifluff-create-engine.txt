@@ -43,7 +43,7 @@ Theatrical/exaggerated labels are modeling tools, not literal claims.
 
 Absolute/exaggerated traits are abstractions/placeholders.
 
-Mogri (Primitive 93, CSP-105) = conceptual container; modeling runtime, not entity.
+Mogri (Primitive 94, CSP-106) = conceptual container; modeling runtime, not entity.
 
 dragonruntime =
 qs:(eat,loc,ID,eater)
